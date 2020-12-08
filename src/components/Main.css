@@ -1,0 +1,54 @@
+body {
+  height: 100vh;
+  margin: 0;
+  display: grid;
+  place-items: center;
+}
+.box {
+  width: 300px;
+  background-color: rgb(30, 30, 33);
+  border-radius: 2.5%;
+  padding: 10px;
+  color: white;
+  width: 60rem;
+}
+
+h1 {
+  font-size: 20px;
+  margin: 0 0 1rem 0;
+}
+
+.sub_box {
+  padding: 3%;
+  border-width: 3px;
+  border-style: solid;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  margin: 16px;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  background: rgb(27, 26, 28);
+  color: white;
+  font-family: Helvetica;
+  font-weight: 300;
+}
+
+.navbar__title {
+  margin-right: auto;
+  font-size: 150%;
+  padding: 12px 16px;
+}
+
+.navbar__item {
+  padding: 16px 16px;
+  cursor: pointer;
+  vertical-align: middle;
+}
