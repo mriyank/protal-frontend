@@ -1,4 +1,4 @@
-@media all and (min-width: 480px) {
+/* @media all and (min-width: 480px) {
   .Login {
     padding: 60px;
     margin-left: 0px;
@@ -18,13 +18,13 @@
 .form-label,
 form-control {
   text-align: center;
-}
+} */
 
 /* html {
   background-color: coral;
 } */
 
-.btn {
+/* .btn {
   margin-top: 30px;
   background-color: yellow;
   border-radius: 10px;
@@ -35,4 +35,4 @@ form-control {
 .form-control {
   border-radius: 20px;
   padding: 5px;
-}
+} */
